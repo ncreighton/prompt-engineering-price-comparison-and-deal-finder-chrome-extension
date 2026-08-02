@@ -29,8 +29,6 @@ Works directly in Chrome, Edge, and Brave — no switching apps required. Under 
 
 Upgrade to the Pro version for **$29.99** and unlock all premium features.
 
-**[Buy on Gumroad](https://devforgetools.gumroad.com/l/upddoh)** — Instant download, lifetime updates
-
 **[Buy Now (Stripe)](https://buy.stripe.com/eVq3cv9z9f6QbRSbzScZx3w)** — Secure checkout
 
 ## Installation
@@ -42,7 +40,6 @@ Upgrade to the Pro version for **$29.99** and unlock all premium features.
 ## Support
 
 - Open an [issue](../../issues) for bug reports
-- Pro customers get priority support via the [purchase platform](https://devforgetools.gumroad.com/l/upddoh)
 
 ## License
 
